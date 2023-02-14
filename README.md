@@ -1,4 +1,4 @@
-Source code for Model Augmented Graph Contrastive Learning
+Source code for Model Augmention Tricks for Graph Contrastive Learning (AAAI2023)
 
 For example, to run MA-GCL under Cora, execute:
 
