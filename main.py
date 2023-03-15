@@ -15,7 +15,6 @@ import networkx as nx
 from scipy.sparse.linalg import eigs, eigsh
 
 from torch_geometric.utils import get_laplacian, to_scipy_sparse_matrix
-from ssgc import Net
 from simple_param.sp import SimpleParam
 from pGRACE.model import Encoder, GRACE, NewGConv, NewEncoder, NewGRACE
 from pGRACE.functional import drop_feature, drop_edge_weighted, \
